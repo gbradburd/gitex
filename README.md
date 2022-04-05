@@ -1,0 +1,1 @@
+Example of how a git repo works
