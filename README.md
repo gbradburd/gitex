@@ -1,1 +1,1 @@
-Example of how a git repo works
+Example of how a git creepo works
